@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+data/free_v1_0/
+reports/
+*.pyc
